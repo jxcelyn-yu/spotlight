@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "spotlight-cubstart",
+    "jocelynyu": "spotlight-cubstart",
+    "spotlight": "spotlight-cubstart"
+  },
+  "targets": {},
+  "etags": {}
+}
