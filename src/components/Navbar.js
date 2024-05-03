@@ -65,21 +65,7 @@ function Navbar() {
               </Link>
             </li>
 
-            <li className="nav-item">
-              <form onSubmit={handleSearchSubmit} className="search-form">
-                <input
-                  type="text"
-                  className="search-input"
-                  placeholder="Search"
-                  data-testid="search-input"
-                  data-encore-id="text"
-                  value={searchTerm}
-                  style={{ color: "rgb(0, 0, 0)" }}
-                  onChange={handleSearchChange}
-                />
-                {/* <button type="submit">Submit</button> Add submit button */}
-              </form>
-            </li>
+        
           </ul>
         </div>
       </nav>

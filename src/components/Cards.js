@@ -57,7 +57,6 @@ function Cards({ searchTerm }) {
       <p style={{textAlign:'center'}}>Click the artist image to go to their Spotify page!</p>
       <br/>
       <br/>
-      <br/>
       <ul className='cards__items'>
         <div className='popularity'></div>
         {topTracks.map((track, index) => (

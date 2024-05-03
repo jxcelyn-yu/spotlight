@@ -20,19 +20,19 @@ function HeroSection() {
       </div>
       <div className='wrapper'>
         <div className='explore'>
-          <br/>
-          <br/>
           <p>Explore the music landscape and discover the
             hottest tracks from your favorite artists. Ready
             to delve into the newest world of music?</p>
           {/* Use Link to navigate */}
           <Link to='/artists'>
-            <button className="take">TAKE ME THERE!</button>
+            <button className="take"> TAKE ME THERE!</button>
           </Link>
         </div>
         {/* Use the imported image */}
           <img src={homeImage} alt='Home Image' className='homeimage' />
       </div>
+      <br/>
+      <br/>
     </div>
   );
 }
