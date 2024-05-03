@@ -54,6 +54,7 @@
 }
 
 .take {
+    color: black;
     margin-top: 20px;
     margin-bottom: 5rem;
     width: 23vw;
@@ -117,6 +118,7 @@
 }
 
 .take {
+    color: black;
     text-align: center;
     margin-top: 20px;
     width: 50vw;
@@ -132,7 +134,7 @@
 }
 
 .take:hover {
-    width: 25vw;
+    width: 55vw;
     height: 65px;
     font-size: 17px;
 }

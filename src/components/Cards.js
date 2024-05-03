@@ -54,7 +54,7 @@ function Cards({ searchTerm }) {
   return (
     <div className='cards'>
       <h1><br/>Top Tracks<br/></h1>
-      <p style={{textAlign:'center'}}>Click the artist image to go to their Spotify page!</p>
+      <p style={{textAlign:'center', width:'70vw'}}>Click the artist image to go to their Spotify page!</p>
       <br/>
       <br/>
       <ul className='cards__items'>

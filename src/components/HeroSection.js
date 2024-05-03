@@ -32,7 +32,6 @@ function HeroSection() {
           <img src={homeImage} alt='Home Image' className='homeimage' />
       </div>
       <br/>
-      <br/>
     </div>
   );
 }

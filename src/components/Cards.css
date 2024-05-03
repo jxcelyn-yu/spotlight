@@ -1,5 +1,8 @@
 .cards {
-  background: #ffffff;
+  background: #F4FFF5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
